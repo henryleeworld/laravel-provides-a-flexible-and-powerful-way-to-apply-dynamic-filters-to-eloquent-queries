@@ -1,0 +1,4 @@
+{
+    "Filter posts with a user ID of :user_id and a category ID of :category_id.": "過濾使用者編號為 :user_id 和分類編號為 :category_id 的貼文。",
+    "Total number of filtered posts: :total.": "過濾的貼文總筆數：:total 筆。"
+}
